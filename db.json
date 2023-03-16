@@ -1,7 +1,7 @@
 {
     "data": [
         {   
-            "id": "1",
+            "id": 1,
             "name": "Escola da Rua A", 
             "path": "/category/escolas/escoladaruaa",  
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -9,7 +9,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "2",
+            "id": 2,
             "name": "Upa da Rua A", 
             "path": "/category/upas/upadaruaa",
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -17,7 +17,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "3",
+            "id": 3,
             "name": "Creche da Rua A", 
             "path": "/category/creches/crechedaruaa",  
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -25,7 +25,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "4",
+            "id": 4,
             "name": "Posto de Saúde da Rua A", 
             "path": "/category/postosdesaude/postodesaudedaruaa", 
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -33,7 +33,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "5",
+            "id": 5,
             "name": "Clínica Médica da Rua A", 
             "path": "/category/clinicasmedicas/clinicamedicadaruaa",
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -41,7 +41,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "6",
+            "id": 6,
             "name": "Dentista da Rua A", 
             "path": "/category/dentistas/dentistadaruaa",  
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -49,7 +49,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "7",
+            "id": 7,
             "name": "Loja de Roupas da Rua A",         
             "path": "/category/roupas/lojaderoupasdaruaa", 
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -57,7 +57,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "8",
+            "id": 8,
             "name": "Loja de Sapatos da Rua A",
             "path": "/category/sapatos/lojadesapatosdaruaa", 
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -65,7 +65,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "9",
+            "id": 9,
             "name": "Loja de Perfumes da Rua A",         
             "path": "/category/perfumes/lojadeperfumesdaruaa", 
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -73,7 +73,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "10",
+            "id": 10,
             "name": "Loja de Móveis da Rua A",         
             "path": "/category/moveis/lojademoveisdaruaa", 
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -81,7 +81,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "11",
+            "id": 11,
             "name": "Loja de Veículos da Rua A",         
             "path": "/category/veiculos/lojadeveiculosdaruaa", 
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -89,7 +89,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "12",
+            "id": 12,
             "name": "Loja de Fastfood da Rua A",         
             "path": "/category/fastfood/lojadefastfooddaruaa", 
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
@@ -97,7 +97,7 @@
             "address": "Rua A, N°01, Centro"
         },
         { 
-            "id": "13",
+            "id": 13,
             "name": "Mercado da Rua A",         
             "path": "/category/mercado/mercadodaruaa", 
             "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vero ullam officiis, nostrum nihil perspiciatis assumenda vel beatae deserunt!",
